@@ -1,36 +1,43 @@
 # Matt Maas
 
-Senior Software Engineer specializing in C#/.NET, React, and AI systems integration. 10+ years building enterprise products at Epic Systems, Fiserv, Garmin, Sound Technologies, and CSG International. Based in Omaha, Nebraska.
+Senior C#/.NET Software Engineer · 8+ years building enterprise software · Omaha, NE · Available for FTE and contract roles
 
-## Core Expertise
+## What I Do
 
-- **Languages:** C#, TypeScript, Python, SQL, Java
-- **Frameworks:** .NET (Core/Framework/8), ASP.NET Web API, React, Next.js, WPF/MVVM
-- **Cloud & DevOps:** Azure, AWS, Docker, Azure DevOps CI/CD
-- **AI/ML:** OpenAI Realtime API, Twilio Voice AI, RAG pipelines, MCP servers, n8n automation
-- **Compliance:** HIPAA, PCI-DSS, HL7, DICOM
+- **Legacy .NET/WPF modernization** — architecture audits, repair sprints, .NET upgrades, API extraction POCs
+- **C#/.NET backend engineering** — REST APIs, Entity Framework, SQL Server, Azure DevOps CI/CD
+- **AI integration for existing .NET products** — voice AI, multi-agent orchestration, MCP servers
 
 ## Selected Work
 
-### Enterprise Products (Production)
-- **Smart DR Fusion** — Veterinary digital x-ray radiography system (C#/WPF/DICOM, 5,000+ installations)
-- **Smart RLT Sport** — Equine rehabilitation laser therapy platform (solo lead developer)
-- **StatHub** — Telecom analytics platform featured in The DevOps Handbook 2nd Edition (Angular/.NET/Elasticsearch)
+| Project | Stack | Context |
+|---|---|---|
+| Smart DR Fusion | C#, WPF, MVVM, DICOM, SQL Server | Veterinary digital x-ray system — Sound Technologies |
+| Smart RLT Sport | C#, WPF, Entity Framework, Azure DevOps | Equine rehabilitation platform — solo lead developer |
+| Automate Desktop | C#, .NET Core, Entity Framework | Enterprise RPA — HelpSystems/Fortra |
+| Fiserv .NET Modernization | C#, VB.NET, .NET Framework 4.8, PowerShell | PCI-DSS/Fortify remediation — contract |
+| StatHub | Angular, TypeScript, .NET, Elasticsearch | Telecom analytics — CSG International |
 
-### Open Source
-- **[Jarvis Assistant for HASS](https://github.com/mattmaas/Jarvis-Assistant-for-HASS)** — AI voice assistant for Home Assistant with OpenRGB integration
-- **[Congress.Ai](https://github.com/mattmaas/Congress.Ai)** — Cross-platform legislative intelligence app with AI bill summaries (.NET MAUI)
+## Public Code (original work)
 
-### Current Focus
-- Real-time voice AI agents (OpenAI Realtime + Twilio + AWS Bedrock)
-- AI-assisted software development workflows and agentic automation
-- Full-stack .NET/React modernization for enterprise systems
+| Repo | Stack | Notes |
+|---|---|---|
+| [Jarvis-Assistant-for-HASS](https://github.com/mattmaas/Jarvis-Assistant-for-HASS) | Python, Home Assistant | AI-powered voice assistant for Home Assistant with OpenRGB lighting integration |
+| [Congress.Ai](https://github.com/mattmaas/Congress.Ai) | C#, .NET MAUI | Cross-platform app for browsing U.S. Congress bills with AI-generated summaries |
+
+My other public repositories are forks and derived experiments (e.g., fixes to the Extended OpenAI Conversation Home Assistant component); original projects are listed above.
+
+## Currently Exploring
+
+- Real-time voice AI with OpenAI Realtime + Twilio
+- Multi-agent orchestration systems (TypeScript)
+- MCP (Model Context Protocol) server development
+- AI-assisted engineering workflows with explicit safety routing
 
 ## Contact
-- 📧 mattmaas7@gmail.com
-- 🔗 [LinkedIn](https://linkedin.com/in/mattmaas)
-- 🌐 [mattmaas.com](https://mattmaas.com)
-- 📍 Omaha, NE
 
----
-*Available for full-time roles and contract engagements.*
+- 📧 mattmaas7@gmail.com
+- 💼 [linkedin.com/in/mattmaas](https://linkedin.com/in/mattmaas)
+- 📍 Omaha, Nebraska
+- ✅ Available for full-time and contract roles
+- 🌐 [mattmaas.com](https://mattmaas.com)
