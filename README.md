@@ -10,6 +10,18 @@ Software engineer · 8+ years of enterprise C#/.NET, now also shipping Android s
 
 The .NET work is what I've been paid for; the public repos below are what I build when nobody's paying.
 
+## Selected Professional Work
+
+| Project | Stack | Context |
+|---|---|---|
+| Smart DR Fusion | C#, WPF, MVVM, DICOM, SQL Server | Veterinary digital x-ray system — Sound Technologies |
+| Smart RLT Sport | C#, WPF, Entity Framework, Azure DevOps | Equine rehabilitation platform — solo lead developer |
+| Automate Desktop | C#, .NET Core, Entity Framework | Enterprise RPA — HelpSystems/Fortra |
+| Fiserv .NET Modernization | C#, VB.NET, .NET Framework 4.8, PowerShell | PCI-DSS/Fortify remediation — contract |
+| StatHub | Angular, TypeScript, .NET, Elasticsearch | Telecom analytics — CSG International |
+
+**Resume:** [2-page (PDF)](https://mattmaas.com/resume.pdf) · [1-page / 2-page / full-length in DOCX + Markdown](https://mattmaas.com/#resume)
+
 ## Public Code (original work)
 
 | Repo | Stack | Notes |
@@ -29,16 +41,6 @@ My other public repositories are forks and derived experiments; original project
 ## Products
 
 **[EbSnap](https://ebsnap.com)** — AI photo-to-eBay listing platform. Snap a photo and get a complete, optimized listing (title, item specifics, description, market-based pricing) in seconds, then publish straight to eBay. Built with Next.js, TypeScript, Google Gemini (Vertex AI), Prisma, Stripe, and the eBay Sell API. Live in production with paying subscribers.
-
-## Selected Professional Work
-
-| Project | Stack | Context |
-|---|---|---|
-| Smart DR Fusion | C#, WPF, MVVM, DICOM, SQL Server | Veterinary digital x-ray system — Sound Technologies |
-| Smart RLT Sport | C#, WPF, Entity Framework, Azure DevOps | Equine rehabilitation platform — solo lead developer |
-| Automate Desktop | C#, .NET Core, Entity Framework | Enterprise RPA — HelpSystems/Fortra |
-| Fiserv .NET Modernization | C#, VB.NET, .NET Framework 4.8, PowerShell | PCI-DSS/Fortify remediation — contract |
-| StatHub | Angular, TypeScript, .NET, Elasticsearch | Telecom analytics — CSG International |
 
 ## Currently Building
 
