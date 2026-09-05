@@ -18,11 +18,14 @@ Senior C#/.NET Software Engineer · 8+ years building enterprise software · Oma
 | Fiserv .NET Modernization | C#, VB.NET, .NET Framework 4.8, PowerShell | PCI-DSS/Fortify remediation — contract |
 | StatHub | Angular, TypeScript, .NET, Elasticsearch | Telecom analytics — CSG International |
 
+## Products
+
+**[EbSnap](https://ebsnap.com)** — AI photo-to-eBay listing platform. Snap a photo and get a complete, optimized listing (title, item specifics, description, market-based pricing) in seconds, then publish straight to eBay. Built with Next.js, TypeScript, Google Gemini (Vertex AI), Prisma, Stripe, and the eBay Sell API. Live in production with paying subscribers.
+
 ## Public Code (original work)
 
 | Repo | Stack | Notes |
 |---|---|---|
-| [EbSnap](https://github.com/mattmaas/ebsnap) | Next.js, TypeScript, Gemini, Prisma, Stripe | AI photo-to-eBay listing workflow — live at [ebsnap.com](https://ebsnap.com) |
 | [GhostMail](https://github.com/mattmaas/ghostmail) | Python, Gmail API, DeepSeek | Local-first Gmail triage and automation with LLM-assisted sorting |
 | [Jarvis-Assistant-for-HASS](https://github.com/mattmaas/Jarvis-Assistant-for-HASS) | Python, Home Assistant | AI-powered voice assistant for Home Assistant with OpenRGB lighting integration |
 | [Congress.Ai](https://github.com/mattmaas/Congress.Ai) | C#, .NET MAUI | Cross-platform app for browsing U.S. Congress bills with AI-generated summaries |
