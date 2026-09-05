@@ -26,18 +26,21 @@ Senior C#/.NET Software Engineer · 8+ years building enterprise software · Oma
 
 | Repo | Stack | Notes |
 |---|---|---|
+| [TapLab](https://github.com/mattmaas/taplab) | Kotlin, TypeScript, Web Bluetooth, BLE | Native Android companion + web dashboard for Tap Strap 2 — a custom fixed-length chord alphabet ("Thumb-Free Tap Code"), AirMouse overrides, and a data-driven trainer |
+| [Razer Edge + XREAL Toolkit](https://github.com/mattmaas/razer-edge-xreal-toolkit) | Java, Android, Magisk | Magisk display monitor + Quick Settings tiles that turn a LineageOS handheld with AR glasses into a pocket desktop |
+| [Context Parity](https://github.com/mattmaas/context-parity) | Python, OpenRouter | Preregistered benchmark: does a compiled behavioral kernel preserve an agent's decisions at ~29% of the prose tokens? |
+| [AiderDesk Android Client](https://github.com/mattmaas/aiderdesk-android-client) | Kotlin, WebView | Thin client for driving a self-hosted AiderDesk coding agent from a phone/tablet |
 | [GhostMail](https://github.com/mattmaas/ghostmail) | Python, Gmail API, DeepSeek | Local-first Gmail triage and automation with LLM-assisted sorting |
 | [Jarvis-Assistant-for-HASS](https://github.com/mattmaas/Jarvis-Assistant-for-HASS) | Python, Home Assistant | AI-powered voice assistant for Home Assistant with OpenRGB lighting integration |
 | [Congress.Ai](https://github.com/mattmaas/Congress.Ai) | C#, .NET MAUI | Cross-platform app for browsing U.S. Congress bills with AI-generated summaries |
 
-My other public repositories are forks and derived experiments; original projects are listed above.
+MCP servers I've built and published: [home-assistant-mcp](https://github.com/mattmaas/home-assistant-mcp) and [searxng-mcp](https://github.com/mattmaas/searxng-mcp) (self-hosted, metering-free web search).
 
-## Currently Exploring
+## Currently Building
 
-- Real-time voice AI with OpenAI Realtime + Twilio
-- Multi-agent orchestration systems (TypeScript)
-- MCP (Model Context Protocol) server development
-- AI-assisted engineering workflows with explicit safety routing
+- Real-time voice AI (OpenAI Realtime / AWS Bedrock + Twilio, Pipecat)
+- Multi-agent orchestration systems (TypeScript + MCP)
+- Android systems work — Magisk modules, Quick Settings tiles, Bluetooth input
 
 ## Contact
 
