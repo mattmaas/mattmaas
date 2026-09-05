@@ -1,26 +1,14 @@
 # Matt Maas
 
-Senior C#/.NET Software Engineer · 8+ years building enterprise software · Omaha, NE · Available for FTE and contract roles
+Software engineer · 8+ years of enterprise C#/.NET, now also shipping Android systems work, TypeScript tooling, and AI-agent infrastructure · Omaha, NE · Available for FTE and contract roles
 
 ## What I Do
 
-- **Legacy .NET/WPF modernization** — architecture audits, repair sprints, .NET upgrades, API extraction POCs
-- **C#/.NET backend engineering** — REST APIs, Entity Framework, SQL Server, Azure DevOps CI/CD
-- **AI integration for existing .NET products** — voice AI, multi-agent orchestration, MCP servers
+- **C#/.NET engineering and modernization** — REST APIs, Entity Framework, SQL Server, Azure DevOps CI/CD; legacy WPF audits, repair sprints, and .NET upgrades
+- **AI-agent infrastructure** — MCP servers, multi-agent orchestration, voice agents, and evaluation harnesses with explicit safety routing
+- **Hardware-adjacent Android** — Magisk modules, Quick Settings tiles, Bluetooth input devices, AR-glasses display control
 
-## Selected Work
-
-| Project | Stack | Context |
-|---|---|---|
-| Smart DR Fusion | C#, WPF, MVVM, DICOM, SQL Server | Veterinary digital x-ray system — Sound Technologies |
-| Smart RLT Sport | C#, WPF, Entity Framework, Azure DevOps | Equine rehabilitation platform — solo lead developer |
-| Automate Desktop | C#, .NET Core, Entity Framework | Enterprise RPA — HelpSystems/Fortra |
-| Fiserv .NET Modernization | C#, VB.NET, .NET Framework 4.8, PowerShell | PCI-DSS/Fortify remediation — contract |
-| StatHub | Angular, TypeScript, .NET, Elasticsearch | Telecom analytics — CSG International |
-
-## Products
-
-**[EbSnap](https://ebsnap.com)** — AI photo-to-eBay listing platform. Snap a photo and get a complete, optimized listing (title, item specifics, description, market-based pricing) in seconds, then publish straight to eBay. Built with Next.js, TypeScript, Google Gemini (Vertex AI), Prisma, Stripe, and the eBay Sell API. Live in production with paying subscribers.
+The .NET work is what I've been paid for; the public repos below are what I build when nobody's paying.
 
 ## Public Code (original work)
 
@@ -35,6 +23,22 @@ Senior C#/.NET Software Engineer · 8+ years building enterprise software · Oma
 | [Congress.Ai](https://github.com/mattmaas/Congress.Ai) | C#, .NET MAUI | Cross-platform app for browsing U.S. Congress bills with AI-generated summaries |
 
 MCP servers I've built and published: [home-assistant-mcp](https://github.com/mattmaas/home-assistant-mcp) and [searxng-mcp](https://github.com/mattmaas/searxng-mcp) (self-hosted, metering-free web search).
+
+My other public repositories are forks and derived experiments; original projects are listed above.
+
+## Products
+
+**[EbSnap](https://ebsnap.com)** — AI photo-to-eBay listing platform. Snap a photo and get a complete, optimized listing (title, item specifics, description, market-based pricing) in seconds, then publish straight to eBay. Built with Next.js, TypeScript, Google Gemini (Vertex AI), Prisma, Stripe, and the eBay Sell API. Live in production with paying subscribers.
+
+## Selected Professional Work
+
+| Project | Stack | Context |
+|---|---|---|
+| Smart DR Fusion | C#, WPF, MVVM, DICOM, SQL Server | Veterinary digital x-ray system — Sound Technologies |
+| Smart RLT Sport | C#, WPF, Entity Framework, Azure DevOps | Equine rehabilitation platform — solo lead developer |
+| Automate Desktop | C#, .NET Core, Entity Framework | Enterprise RPA — HelpSystems/Fortra |
+| Fiserv .NET Modernization | C#, VB.NET, .NET Framework 4.8, PowerShell | PCI-DSS/Fortify remediation — contract |
+| StatHub | Angular, TypeScript, .NET, Elasticsearch | Telecom analytics — CSG International |
 
 ## Currently Building
 
