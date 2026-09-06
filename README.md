@@ -34,9 +34,16 @@ The .NET work is what I've been paid for; the public repos below are what I buil
 | [Jarvis-Assistant-for-HASS](https://github.com/mattmaas/Jarvis-Assistant-for-HASS) | Python, Home Assistant | AI-powered voice assistant for Home Assistant with OpenRGB lighting integration |
 | [Congress.Ai](https://github.com/mattmaas/Congress.Ai) | C#, .NET MAUI | Cross-platform app for browsing U.S. Congress bills with AI-generated summaries |
 
-MCP servers I've built and published: [home-assistant-mcp](https://github.com/mattmaas/home-assistant-mcp) and [searxng-mcp](https://github.com/mattmaas/searxng-mcp) (self-hosted, metering-free web search).
+## MCP servers (published)
 
-My other public repositories are forks and derived experiments; original projects are listed above.
+[agent-sessions-mcp](https://github.com/mattmaas/agent-sessions-mcp) — session lifecycle, persistent context, transcripts, and a human-gated memory-promotion pipeline ·
+[n8n-admin-mcp](https://github.com/mattmaas/n8n-admin-mcp) — workflow backup/rollback/duplication with a pre-duplication safety policy ·
+[fastmail-mcp](https://github.com/mattmaas/fastmail-mcp) — JMAP email + masked aliases, draft-first ·
+[immich-mcp](https://github.com/mattmaas/immich-mcp) — bidirectional photo management ·
+[radarr-mcp](https://github.com/mattmaas/radarr-mcp) · [sonarr-mcp](https://github.com/mattmaas/sonarr-mcp) · [readarr-mcp](https://github.com/mattmaas/readarr-mcp) · [qbittorrent-mcp](https://github.com/mattmaas/qbittorrent-mcp) — self-hosted media automation ·
+[home-assistant-mcp](https://github.com/mattmaas/home-assistant-mcp) · [searxng-mcp](https://github.com/mattmaas/searxng-mcp) — smart home + self-hosted web search
+
+Forked and derived-experiment repositories are not listed; everything above is original work.
 
 ## Products
 
