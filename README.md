@@ -48,7 +48,7 @@ Forked and derived-experiment repositories are not listed; everything above is o
 
 ## Products
 
-**[EbSnap](https://ebsnap.com)** — AI photo-to-eBay listing platform. Snap a photo and get a complete, optimized listing (title, item specifics, description, market-based pricing) in seconds, then publish straight to eBay. Built with Next.js, TypeScript, Google Gemini (Vertex AI), Prisma, Stripe, and the eBay Sell API. Live in production with paying subscribers.
+**[EbSnap](https://ebsnap.com)** — AI photo-to-eBay listing platform. Snap a photo and get a complete, optimized listing (title, item specifics, description, market-based pricing) in seconds, then publish straight to eBay. Built with Next.js, TypeScript, Google Gemini (Vertex AI), Prisma, Stripe, and the eBay Sell API. Live in production with paying subscribers. Web-first by design — the capture flow runs in the phone browser, so sellers photograph an item and publish with no app-store install.
 
 ## Currently Building
 
