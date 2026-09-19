@@ -6,7 +6,7 @@ Software engineer · 8+ years of enterprise C#/.NET, now also shipping Android s
 
 - **C#/.NET engineering and modernization** — REST APIs, Entity Framework, SQL Server, Azure DevOps CI/CD; legacy WPF audits, repair sprints, and .NET upgrades
 - **AI-agent infrastructure** — MCP servers, multi-agent orchestration, voice agents, and evaluation harnesses with explicit safety routing
-- **Hardware-adjacent Android** — Magisk modules, Quick Settings tiles, Bluetooth input devices, AR-glasses display control
+- **Hardware-adjacent Android** — Magisk modules, Quick Settings tiles, Bluetooth input devices, AR-glasses display control; 3 Android APKs published via GitHub Releases
 
 The .NET work is what I've been paid for; the public repos below are what I build when nobody's paying.
 
@@ -29,7 +29,8 @@ The .NET work is what I've been paid for; the public repos below are what I buil
 | [TapLab](https://github.com/mattmaas/taplab) | Kotlin, TypeScript, Web Bluetooth, BLE | Native Android companion + web dashboard for Tap Strap 2 — a custom fixed-length chord alphabet ("Thumb-Free Tap Code"), AirMouse overrides, and a data-driven trainer |
 | [Razer Edge + XREAL Toolkit](https://github.com/mattmaas/razer-edge-xreal-toolkit) | Java, Android, Magisk | Magisk display monitor + Quick Settings tiles that turn a LineageOS handheld with AR glasses into a pocket desktop |
 | [Context Parity](https://github.com/mattmaas/context-parity) | Python, OpenRouter | Preregistered benchmark: does a compiled behavioral kernel preserve an agent's decisions at ~29% of the prose tokens? |
-| [AiderDesk Android Client](https://github.com/mattmaas/aiderdesk-android-client) | Kotlin, WebView | Thin client for driving a self-hosted AiderDesk coding agent from a phone/tablet |
+| [AiderDesk Android Client](https://github.com/mattmaas/aiderdesk-android-client) | Kotlin, WebView | ~250-line Android client for driving a self-hosted AiderDesk coding agent — configurable host/port, host-scoped WebView, rotation-safe |
+| [AiderDesk Task Guardian](https://github.com/mattmaas/aiderdesk-task-guardian) | PowerShell, Pester | Validation-gated backup/restore for AiderDesk task chats — a corrupted (zero-filled or truncated) file can never overwrite a good mirror |
 | [GhostMail](https://github.com/mattmaas/ghostmail) | Python, Gmail API, DeepSeek | Local-first Gmail triage and automation with LLM-assisted sorting |
 | [Jarvis-Assistant-for-HASS](https://github.com/mattmaas/Jarvis-Assistant-for-HASS) | Python, Home Assistant | AI-powered voice assistant for Home Assistant with OpenRGB lighting integration |
 | [Congress.Ai](https://github.com/mattmaas/Congress.Ai) | C#, .NET MAUI | Cross-platform app for browsing U.S. Congress bills with AI-generated summaries |
